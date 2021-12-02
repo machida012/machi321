@@ -5,6 +5,15 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
+  text-align:center;
+}
+
+div#center {
+width: 450px;
+height: 800px;
+text-align: left;
+background: #AAAAAA;
+margin: auto;
 }
 
 a {
